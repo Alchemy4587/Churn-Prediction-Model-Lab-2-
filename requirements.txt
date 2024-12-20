@@ -1,0 +1,3 @@
+Python 3.6 or later is recommended.
+Run pip install pandas seaborn matplotlib sklearn scipy numpy imblearn collections unicodedata scikit-learn
+to install all the required libraries
